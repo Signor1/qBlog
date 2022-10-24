@@ -1,0 +1,10 @@
+@media screen and (max-width: 767px) {
+    header nav {
+        transition: 1s;
+        transform: translateY(-100vh);
+    }
+
+    header .responsive_nav {
+        transform: none;
+    }
+}
