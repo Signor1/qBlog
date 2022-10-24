@@ -1,4 +1,4 @@
-<img src"https://www.awesomescreenshot.com/image/33699060?key=1b5978663b80635829597876e012a8f3" width="100%"/>
+<img src="https://github.com/Signor1/qBlog/blob/b7d3d9b6402accc9aa1ae9eb1da4c1776cbbac37/Q.%20Studio.png"/>
 
 # QBLOG WEB APP
 
